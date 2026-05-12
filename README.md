@@ -11,11 +11,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently a **1st Year B.Tech IT Engineering Student** in India.
-- ☁️ Actively participating and building cloud infrastructure skills via the **Google Cloud Arcade**.
-- 🌱 I’m currently learning core programming, **Data Structures & Algorithms**, and **Cloud Computing**.
-- 🏆 Check out my earned badges on my **[Google Cloud Skills Profile](https://www.skills.google/public_profiles/45366763-6450-4af7-b02b-76d871f43079)**.
-- 📫 How to reach me: Connect with me on **[LinkedIn](https://www.linkedin.com/in/kartik-devdhawala)**.
+- 🔭 I’m currently a **1st Year B.Tech IT Engineering Student** focused on Cloud Infrastructure.
+- ☁️ Actively building my foundation in Google Cloud Platform (GCP), provisioning infrastructure with **Terraform**.
+- 🌱 Bridging the gap between development and operations by taking local web interfaces and deploying them to the cloud.
+- 🏆 Check out my earned badges in Compute Engine, VPC Networking, and GKE on my **[Google Cloud Skills Profile](https://www.skills.google/public_profiles/45366763-6450-4af7-b02b-76d871f43079)**.
+- 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/kartik-devdhawala)** to discuss real-world cloud architecture!
 
 ---
 
