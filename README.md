@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,gcp,linux,git,bash,md&perline=5" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,gcp,terraform,kubernetes&perline=6" alt="My Skills" />
   </a>
 </p>
 
