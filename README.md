@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeagueStar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeagueStar&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Kartik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeagueStar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
