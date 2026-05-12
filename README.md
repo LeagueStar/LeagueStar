@@ -33,7 +33,7 @@
 
 <div align="center">
   
-  [![Kartik's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeagueStar&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Kartik's GitHub stats](https://raw.androz2091.fr/github-readme-stats?username=LeagueStar&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   
   [![Kartik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeagueStar&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeagueStar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://raw.androz2091.fr/github-readme-stats/top-langs/?username=LeagueStar&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
