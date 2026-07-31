@@ -1,0 +1,961 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620.0 603"
+     width="620.0" height="603">
+  <defs>
+    <clipPath id="wipe0">
+      <rect x="0" y="4" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.0s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe1">
+      <rect x="0" y="15" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.035s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe2">
+      <rect x="0" y="26" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.07s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe3">
+      <rect x="0" y="37" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.105s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe4">
+      <rect x="0" y="48" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.14s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe5">
+      <rect x="0" y="59" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.175s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe6">
+      <rect x="0" y="70" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.21s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe7">
+      <rect x="0" y="81" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.245s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe8">
+      <rect x="0" y="92" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.28s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe9">
+      <rect x="0" y="103" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.315s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe10">
+      <rect x="0" y="114" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.35s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe11">
+      <rect x="0" y="125" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.385s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe12">
+      <rect x="0" y="136" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.42s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe13">
+      <rect x="0" y="147" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.455s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe14">
+      <rect x="0" y="158" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.49s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe15">
+      <rect x="0" y="169" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.525s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe16">
+      <rect x="0" y="180" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.56s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe17">
+      <rect x="0" y="191" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.595s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe18">
+      <rect x="0" y="202" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.63s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe19">
+      <rect x="0" y="213" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.665s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe20">
+      <rect x="0" y="224" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.7s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe21">
+      <rect x="0" y="235" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.735s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe22">
+      <rect x="0" y="246" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.77s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe23">
+      <rect x="0" y="257" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.805s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe24">
+      <rect x="0" y="268" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.84s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe25">
+      <rect x="0" y="279" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.875s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe26">
+      <rect x="0" y="290" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.91s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe27">
+      <rect x="0" y="301" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.945s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe28">
+      <rect x="0" y="312" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="0.98s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe29">
+      <rect x="0" y="323" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.015s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe30">
+      <rect x="0" y="334" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.05s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe31">
+      <rect x="0" y="345" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.085s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe32">
+      <rect x="0" y="356" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.12s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe33">
+      <rect x="0" y="367" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.155s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe34">
+      <rect x="0" y="378" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.19s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe35">
+      <rect x="0" y="389" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.225s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe36">
+      <rect x="0" y="400" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.26s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe37">
+      <rect x="0" y="411" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.295s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe38">
+      <rect x="0" y="422" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.33s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe39">
+      <rect x="0" y="433" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.365s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe40">
+      <rect x="0" y="444" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.4s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe41">
+      <rect x="0" y="455" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.435s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe42">
+      <rect x="0" y="466" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.47s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe43">
+      <rect x="0" y="477" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.505s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe44">
+      <rect x="0" y="488" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.54s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe45">
+      <rect x="0" y="499" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.575s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe46">
+      <rect x="0" y="510" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.61s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe47">
+      <rect x="0" y="521" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.645s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe48">
+      <rect x="0" y="532" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.68s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe49">
+      <rect x="0" y="543" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.715s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe50">
+      <rect x="0" y="554" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.75s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe51">
+      <rect x="0" y="565" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.785s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+    <clipPath id="wipe52">
+      <rect x="0" y="576" width="0" height="16">
+        <animate attributeName="width" from="0" to="620.0"
+                 begin="1.82s" dur="0.6s" fill="freeze"
+                 calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+      </rect>
+    </clipPath>
+  </defs>
+  <rect width="100%" height="100%" fill="none" />
+  
+    <g clip-path="url(#wipe0)">
+      <text x="0" y="16" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                                  .:=+*csssss#####s####sscc*+=-`.                                   </text>
+    </g>
+    <rect x="0" y="4" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.0s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.0s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe1)">
+      <text x="0" y="27" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                             .`-=*sssscssccssss###c*s#c*sscccscccc*=:.                              </text>
+    </g>
+    <rect x="0" y="15" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.035s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.035s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe2)">
+      <text x="0" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                          `-=+cs##scccccscsssss###s*s#s##ssssscccsss#s*=:.                          </text>
+    </g>
+    <rect x="0" y="26" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.07s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.07s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe3)">
+      <text x="0" y="49" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                       :+csc***cccccccssccs***cccssscc*csssscccccccccccc**+-.                       </text>
+    </g>
+    <rect x="0" y="37" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.105s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.105s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe4)">
+      <text x="0" y="60" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                    `=c####ssssscccccccsccc****csssc**+*ss#s*cccc*ccccccccs##c-.                    </text>
+    </g>
+    <rect x="0" y="48" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.14s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.14s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe5)">
+      <text x="0" y="71" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                 .-c##sss#####scc***cc*=+c*++++*cc+==+*csssc**ccc****ccsss#####s+`                  </text>
+    </g>
+    <rect x="0" y="59" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.175s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.175s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe6)">
+      <text x="0" y="82" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">               .=c##sccss#sssscccc****cccc*=++=+c*******s#scccssscccsss###########c-.               </text>
+    </g>
+    <rect x="0" y="70" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.21s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.21s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe7)">
+      <text x="0" y="93" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">             .-*s##sss*cssssscccccc**c*ccs*==+=**cs#c+**sssc++*c++*s####sscccssssssc+-              </text>
+    </g>
+    <rect x="0" y="81" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.245s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.245s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe8)">
+      <text x="0" y="104" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">            :c*+s#ss#c*+**c*ccsssssssccssc*==+++++*+===*ss#c++++++*###sccc****cssss***+:            </text>
+    </g>
+    <rect x="0" y="92" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.28s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.28s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe9)">
+      <text x="0" y="115" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">          .+##ssssssc==**+*cscssssssscccssc++++++++++==c#sssc*****cs##ss***+c*cssss*+**+=.          </text>
+    </g>
+    <rect x="0" y="103" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.315s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.315s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe10)">
+      <text x="0" y="126" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">         :+**ccccss##c==+c++*cssssscc**csssssss#sssssss#s#ssssc*c**s####c+*+**s##ss*+*++**:         </text>
+    </g>
+    <rect x="0" y="114" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.35s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.35s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe11)">
+      <text x="0" y="137" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">        -+====+++=*#sssc***++*ccccc=+sssssssss##s#####ssccccc#######s####ssss###sc**+*****+-        </text>
+    </g>
+    <rect x="0" y="125" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.385s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.385s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe12)">
+      <text x="0" y="148" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">      .=*==+*+++*cc*cc##s*--===**=-+sscc************++=====++c#####s+cs####sssc*cssssccccccc*.      </text>
+    </g>
+    <rect x="0" y="136" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.42s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.42s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe13)">
+      <text x="0" y="159" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">     `cs#csc*++**=--css##c--:-+sscc*+*ccsssssscccccsc***+++===*s#sss**c####sc*==s#sss#ssss###c.     </text>
+    </g>
+    <rect x="0" y="147" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.455s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.455s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe14)">
+      <text x="0" y="170" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">    .+ccss+=*+-==--+s####sc**css*cc:=cssssssssc*cc*cccccccc**=-csssssccc**css*+c##c*c#ccc#ssssc.    </text>
+    </g>
+    <rect x="0" y="158" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.49s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.49s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe15)">
+      <text x="0" y="181" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">   .+**=ssc=:==--=c########s#s##c*c+--==++++*c*****cc******++++c#scccc***+++c#s###c*+cc*c#sssss*.   </text>
+    </g>
+    <rect x="0" y="169" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.525s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.525s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe16)">
+      <text x="0" y="192" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">   =*+=-sssc++scs##sssss###ssc*+++*+=-::---:-=====++++++**cc**c##**+*cscsc*+=c####c*++**c#sssscc=   </text>
+    </g>
+    <rect x="0" y="180" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.56s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.56s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe17)">
+      <text x="0" y="203" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">  :+++=-sssssscssssssssssss#c+++++**+:==cssscsscscsss##s##s*-*##cc+::-=cc***+=*###c**+=*c##ss#*+*:  </text>
+    </g>
+    <rect x="0" y="191" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.595s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.595s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe18)">
+      <text x="0" y="214" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve"> .+=--==s#sccccc*ccssscssss#***+==++=--=*sss#######s#####s++=c#sc*---:-ccc***+=*##c*cc+*c#s###*-:-  </text>
+    </g>
+    <rect x="0" y="202" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.63s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.63s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe19)">
+      <text x="0" y="225" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve"> -+=--==##ccccccc*cssssc#s##c+++++++=-c*=*cs#########ssc*=cs=sscs*-=+--ssccccc*=*#**cs++c###s*:`==: </text>
+    </g>
+    <rect x="0" y="213" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.665s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.665s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe20)">
+      <text x="0" y="236" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">.==+*++=#scsccc*cccssssss##s#c==+*+*c=*c*=-s##########c-+cs++#scc+-===-=====ccc*=*sss#sss###c=:----.</text>
+    </g>
+    <rect x="0" y="224" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.7s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.7s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe21)">
+      <text x="0" y="247" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">`-==++==#s*cccccccssssscs#s###s*++*css=++*s#sscs##s####s**+*###sc=:-:::-=+--cc**+=s#######s#c=---:`:</text>
+    </g>
+    <rect x="0" y="235" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.735s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.735s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe22)">
+      <text x="0" y="258" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">-`:-:::-##**csccccssccccs##c*ccccss###ss###cc#####ss##s#########s+::```:``.-**+++=*#sc*s#####c=--=**</text>
+    </g>
+    <rect x="0" y="246" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.77s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.77s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe23)">
+      <text x="0" y="269" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">-`.````-##**sc*+*sssccccc#s:-=--===c##s=cs#c-s#s#sscs#s##########s==-=-:..:c**+++=ss+=-+c+=*s#ssssss</text>
+    </g>
+    <rect x="0" y="257" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.805s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.805s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe24)">
+      <text x="0" y="280" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">  ..``.-#s*ccccccccsscccc#s:==::=`=###=`-=sc-:++=c+==+cs#######s*cs+:-=:..*sc**=+s#s**c*-::-sssssscc</text>
+    </g>
+    <rect x="0" y="268" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.84s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.84s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe25)">
+      <text x="0" y="291" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">..`````-#c*cccccccccsc***ss`=-:`-`*s#s:```:+-``:`:-`:`-s###s####c*cs=``:-*ssc+*c####scc*--=csssc*+--</text>
+    </g>
+    <rect x="0" y="279" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.875s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.875s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe26)">
+      <text x="0" y="302" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">ssssssss#c**cccccccsccsc*cs------===#*::--:`::-+=--:::`-c%#s####%##ssscsssssss#######sc+*csssss+::.:</text>
+    </g>
+    <rect x="0" y="290" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.91s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.91s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe27)">
+      <text x="0" y="313" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">*cs######*+cc*c*c*csccssccs#sssssssssc-=+*=:::-+++*++=-`*%*=+######%%#########c*****csssssssssc===+c</text>
+    </g>
+    <rect x="0" y="301" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.945s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.945s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe28)">
+      <text x="0" y="324" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">+=*ssssss*+sc*c*s*cccccscccs#####s*++**-=**-:::-:-***+=`*+=-:**+--=+cs######c++==--==+s#ssssss**+css</text>
+    </g>
+    <rect x="0" y="312" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="0.98s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="0.98s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe29)">
+      <text x="0" y="335" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">+==ssssssscsccc*c**c*ccsssss#s#s*++*+==-::=-:::```::::```.=-`-=---==::-*c##s**+=:``:-=+sssssssc*=-=+</text>
+    </g>
+    <rect x="0" y="323" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.015s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.015s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe30)">
+      <text x="0" y="346" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">++=sss*==+s###ssssccsssssssssss*+*sc*+*-`:=-``````:````..`-==+=+++===-``:c#c**+=`..`--=ssssssssc+++=</text>
+    </g>
+    <rect x="0" y="334" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.05s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.05s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe31)">
+      <text x="0" y="357" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">-+=cs--:::-*##ss#+:-+--csss#sss*++=++*c=```:````````..`:=*cc*+*******=+-`:cs*+++-::--==sssssssssscc:</text>
+    </g>
+    <rect x="0" y="345" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.085s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.085s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe32)">
+      <text x="0" y="368" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">`+=*s+:-:`::+s#ss*----=cssssssssc*******-``:::`:`...`:===s*+-:++c+++*++---`cs*+++++===*ssssssssccc*.</text>
+    </g>
+    <rect x="0" y="356" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.12s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.12s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe33)">
+      <text x="0" y="379" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve"> -+=ssc::::::-*sss*==*sss*cs#sss#csc*++**+=-```..`:-====+=---:*+****++=-**+s##sc*++==*ssssssccc*++- </text>
+    </g>
+    <rect x="0" y="367" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.155s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.155s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe34)">
+      <text x="0" y="390" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve"> .+=sssc-:-:`:-s#sscsc**csssc*ccssc++++****c+--+c*+=+++==---:-==+**+=+---+c#####scc*csssssscc*c+-=. </text>
+    </g>
+    <rect x="0" y="378" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.19s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.19s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe35)">
+      <text x="0" y="401" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">  :+sssss+:--`*sss+cs*+=*scsc**=s#s---===+**csssc++==-------==:-=+++=----*s###s#sssscssssss*==----  </text>
+    </g>
+    <rect x="0" y="389" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.225s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.225s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe36)">
+      <text x="0" y="412" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">   =sccc=*ccsc:=ssc*csccsccs##c *cs=:--=--*ccs*=-+---------==-+**+***+c*s#######ssssssssccc*===*-   </text>
+    </g>
+    <rect x="0" y="400" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.26s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.26s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe37)">
+      <text x="0" y="423" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">   .+:-=--sssss=*sc+*scscc*cs#s c+.`.:+=---+c==:-=+-----=*++==-=-::=*s%%###*=c#c+*sssccsc*+=-:+*.   </text>
+    </g>
+    <rect x="0" y="411" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.295s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.295s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe38)">
+      <text x="0" y="434" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">    .++++cssss###scssssc***cccc +`...-c*-c===---==+=:+cc*+:=---=:`=-:=+c#s=``:=:.`+ssscssc*+**+.    </text>
+    </g>
+    <rect x="0" y="422" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.33s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.33s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe39)">
+      <text x="0" y="445" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">     .*scss#s#####sc##s=-:-=+** =````+c*-*c+:`:+:+*-+sc+=*:=::-=-`-:-:-:-++-`````:+sssssssss*=.     </text>
+    </g>
+    <rect x="0" y="433" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.365s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.365s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe40)">
+      <text x="0" y="456" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">      .*c***++++==s###c=::----- -`--`-*+-sc+-.::+=c+:=**:+:-:`-=-`+-:-===-=cc=-**sssssssssss+.      </text>
+    </g>
+    <rect x="0" y="444" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.4s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.4s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe41)">
+      <text x="0" y="467" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">        --::``````c##c**=::--=`.`-+-:===-c*+*:`-c*==-+++==++-:=+-==+-=-----+#ss##c*ss*sssss+.       </text>
+    </g>
+    <rect x="0" y="455" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.435s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.435s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe42)">
+      <text x="0" y="478" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">         `::``````c#c+*cc+--=*:``+-:::=+:+sscc+ccc+==:=*+-++=-**:-=+=+-=----*##s+:`=-`-css=         </text>
+    </g>
+    <rect x="0" y="466" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.47s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.47s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe43)">
+      <text x="0" y="489" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">          .-=**cc****+*ccs--*+-:-=-==-**-`cccc****++=====-=`:+=-+==*=+====---css*:``.`-c*`          </text>
+    </g>
+    <rect x="0" y="477" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.505s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.505s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe44)">
+      <text x="0" y="500" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">            :c#c*+=++***cs+`+*=-==----:++.=**=--++++===--+=-=c-:++*+=*+==----+cssc=:-*c-            </text>
+    </g>
+    <rect x="0" y="488" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.54s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.54s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe45)">
+      <text x="0" y="511" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">              -==-=+**+**c+-:*=:---::-:*+.-==--=+=-=======++====`====+===----=ssssscc=.             </text>
+    </g>
+    <rect x="0" y="499" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.575s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.575s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe46)">
+      <text x="0" y="522" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                `=++*+=+===+:=*--::=-::*+======+=---======*++=+=:-++======---=ssssc-.               </text>
+    </g>
+    <rect x="0" y="510" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.61s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.61s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe47)">
+      <text x="0" y="533" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                  `=+*==+++**++*=-:=+-+*====++=+==-=-=====**+=+====*+====----=#s*:                  </text>
+    </g>
+    <rect x="0" y="521" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.645s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.645s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe48)">
+      <text x="0" y="544" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                    .--*ccccc***:````-c==--+=--*---=-=-====**++=====**==-----==`                    </text>
+    </g>
+    <rect x="0" y="532" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.68s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.68s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe49)">
+      <text x="0" y="555" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                       `-==+**+:-:```=====+c=--+---=-=-=---=cc+===--=+c*+=-:`                       </text>
+    </g>
+    <rect x="0" y="543" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.715s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.715s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe50)">
+      <text x="0" y="566" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                          .:-:``::``=+====+c=-=+--======-==-=c*====-====-.                          </text>
+    </g>
+    <rect x="0" y="554" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.75s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.75s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe51)">
+      <text x="0" y="577" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                              .```:=+======c===+=============*c===-:`.                              </text>
+    </g>
+    <rect x="0" y="565" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.785s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.785s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+    <g clip-path="url(#wipe52)">
+      <text x="0" y="588" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
+            font-size="12" fill="#c9d1d9" xml:space="preserve">                                   .`::-===**=++=====++====---:`.                                   </text>
+    </g>
+    <rect x="0" y="576" width="2" height="14" fill="#c9d1d9" opacity="0">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.01;0.9;1"
+               begin="1.82s" dur="0.6s" fill="freeze" />
+      <animate attributeName="x" from="0" to="620.0"
+               begin="1.82s" dur="0.6s" fill="freeze"
+               calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+</svg>
