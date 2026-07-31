@@ -27,7 +27,7 @@ TITLE_H = 44
 FONT = "'SFMono-Regular',Consolas,'Liberation Mono',monospace"
 
 # --- edit this block to update the card's content ---
-TITLE = "avi@github"
+TITLE = "leaguestar@github"
 FIELDS = [
     ("OS",         "B.Tech Information Technology"),
     ("Year",       "2nd Year"),
