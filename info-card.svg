@@ -10,7 +10,7 @@
   <circle cx="44" cy="22.0" r="6" fill="#ffbd2e" />
   <circle cx="64" cy="22.0" r="6" fill="#27c93f" />
   <text x="245.0" y="27.0" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono',monospace"
-        font-size="13" fill="#79c0ff">avi@github</text>
+        font-size="13" fill="#79c0ff">leaguestar@github</text>
 
   <line x1="22" y1="56" x2="468" y2="56"
         stroke="#30363d" stroke-width="1" />
